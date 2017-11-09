@@ -1,0 +1,72 @@
+[2017-11-08 12:12:03.625] [DEBUG] log - Got cheese.
+[2017-11-08 12:12:03.629] [INFO] log - Cheese is Gouda.
+[2017-11-08 12:12:03.630] [WARN] log - Cheese is quite smelly.
+[2017-11-08 12:12:03.631] [ERROR] log - Cheese is too ripe!
+[2017-11-08 12:12:03.632] [FATAL] log - Cheese was breeding ground for listeria.
+[2017-11-08 12:13:03.467] [DEBUG] log - Got cheese.
+[2017-11-08 12:13:03.470] [INFO] log - Cheese is Gouda.
+[2017-11-08 12:13:03.472] [WARN] log - Cheese is quite smelly.
+[2017-11-08 12:13:03.473] [ERROR] log - Cheese is too ripe!
+[2017-11-08 12:13:03.474] [FATAL] log - Cheese was breeding ground for listeria.
+[2017-11-08 12:13:04.742] [DEBUG] log - Got cheese.
+[2017-11-08 12:13:04.746] [INFO] log - Cheese is Gouda.
+[2017-11-08 12:13:04.750] [WARN] log - Cheese is quite smelly.
+[2017-11-08 12:13:04.751] [ERROR] log - Cheese is too ripe!
+[2017-11-08 12:13:04.751] [FATAL] log - Cheese was breeding ground for listeria.
+[2017-11-08 12:13:05.657] [DEBUG] log - Got cheese.
+[2017-11-08 12:13:05.660] [INFO] log - Cheese is Gouda.
+[2017-11-08 12:13:05.661] [WARN] log - Cheese is quite smelly.
+[2017-11-08 12:13:05.662] [ERROR] log - Cheese is too ripe!
+[2017-11-08 12:13:05.663] [FATAL] log - Cheese was breeding ground for listeria.
+[2017-11-08 12:13:34.751] [DEBUG] log - Got cheese.
+[2017-11-08 12:13:34.754] [INFO] log - Cheese is Gouda.
+[2017-11-08 12:13:34.756] [WARN] log - Cheese is quite smelly.
+[2017-11-08 12:13:34.757] [ERROR] log - Cheese is too ripe!
+[2017-11-08 12:13:34.758] [FATAL] log - Cheese was breeding ground for listeria.
+[2017-11-08 12:14:09.099] [DEBUG] log - Got cheese.
+[2017-11-08 12:14:09.102] [INFO] log - Cheese is Gouda.
+[2017-11-08 12:14:09.104] [WARN] log - Cheese is quite smelly.
+[2017-11-08 12:14:09.104] [ERROR] log - Cheese is too ripe!
+[2017-11-08 12:14:09.105] [FATAL] log - Cheese was breeding ground for listeria.
+[2017-11-08 12:22:16.453] [DEBUG] log - Got cheese.
+[2017-11-08 12:22:16.456] [WARN] log - Cheese is quite smelly.
+[2017-11-08 12:22:16.457] [ERROR] log - Cheese is too ripe!
+[2017-11-08 12:22:16.458] [FATAL] log - Cheese was breeding ground for listeria.
+[2017-11-08 16:20:52.321] [INFO] log - Non numerical data spotted!
+[2017-11-08 16:20:52.330] [INFO] log - Non numerical data spotted!
+[2017-11-09 11:54:46.227] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 11:55:50.030] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 11:59:02.643] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:02:19.310] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:03:24.019] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:04:10.551] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:07:42.450] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:08:33.192] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:08:40.321] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:09:11.794] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:09:40.980] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:10:18.211] [ERROR] log - They seem to have entered an incorrect file name
+[2017-11-09 12:11:27.904] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:12:11.053] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:13:26.069] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:14:44.974] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:15:05.264] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:15:39.616] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:15:57.695] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:17:28.993] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:18:01.538] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:18:07.322] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:18:50.749] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:19:09.565] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 12:19:53.942] [ERROR] log - They seem to have entered a name that wasnt in the database
+[2017-11-09 15:29:21.738] [ERROR] log - They seem to have entered an incorrect file name
+[2017-11-09 15:29:21.754] [ERROR] log - They seem to have entered an incorrect file name
+[2017-11-09 15:29:34.623] [ERROR] log - They seem to have entered an incorrect file name
+[2017-11-09 15:31:23.974] [ERROR] log - They seem to have entered an incorrect file name
+[2017-11-09 15:31:55.625] [ERROR] log - They seem to have entered an incorrect file name
+[2017-11-09 15:39:21.399] [ERROR] log - They seem to have entered an incorrect file name
+[2017-11-09 15:40:30.682] [ERROR] log - They seem to have entered an incorrect file name
+[2017-11-09 15:41:17.780] [ERROR] log - They seem to have entered an incorrect file name
+[2017-11-09 15:42:34.847] [ERROR] log - They seem to have entered an incorrect file name
+[2017-11-09 15:42:49.167] [ERROR] log - They seem to have entered an incorrect file name
+[2017-11-09 15:43:32.152] [ERROR] log - They seem to have entered an incorrect file name
